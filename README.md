@@ -10,3 +10,4 @@ A platform about finances.
 
 # :book: About
 
+# :bug: Bugs
