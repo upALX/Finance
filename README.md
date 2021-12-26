@@ -11,7 +11,7 @@ A platform about finances.
 # :book: About
 
 # :bug: Bugs
-Did you find one or more errors in this project? No problem, open an issue or solve the problem and make a Pull request. I´ll be very happy with your contribution :)
+Did you find one or more errors in this project? No problem, open an [issue](https://github.com/upALX/Finance/issues) or solve the problem and make a [Pull request](https://github.com/upALX/Finance/pulls). I´ll be very happy with your contribution :)
 
 # :closed_book: License
 This project is under the [MIT license](https://opensource.org/licenses/MIT).
