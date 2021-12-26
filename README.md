@@ -11,3 +11,5 @@ A platform about finances.
 # :book: About
 
 # :bug: Bugs
+Did you find one or more errors in this project? No problem, open an issue or solve the problem and make a Pull request. I´ll be very happy with your contribution :)
+
