@@ -9,7 +9,7 @@ A platform about finances.
 * [Whitch license this pproject use?](closed_book-license)
 
 # :book: About
-Finance is an investment finance.
+Finance is an investment platform.
 
 # :bug: Bugs
 Did you find one or more errors in this project? No problem, open an [issue](https://github.com/upALX/Finance/issues) or solve the problem and make a [Pull request](https://github.com/upALX/Finance/pulls). I´ll be very happy with your contribution :)
