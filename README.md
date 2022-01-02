@@ -1,6 +1,8 @@
-# Finance
+
 
 A platform about finances.
+
+---
 
 # :pushpin: Topics
 
