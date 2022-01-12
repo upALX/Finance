@@ -16,5 +16,5 @@ Finance is an investment platform.
 ## :bug: Bugs
 Did you find one or more errors in this project? No problem, open an [issue](https://github.com/upALX/Finance/issues) or solve the problem and make a [Pull request](https://github.com/upALX/Finance/pulls). I´ll be very happy with your contribution :)
 
-# :closed_book: License
+## :closed_book: License
 This project is under the [MIT license](https://opensource.org/licenses/MIT).
