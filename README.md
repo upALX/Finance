@@ -10,7 +10,7 @@ A platform about finances.
 * [I found errors in this project, what should i do?](bug-bugs)
 * [Whitch license this pproject use?](closed_book-license)
 
-# :book: About
+## :book: About
 Finance is an investment platform.
 
 # :bug: Bugs
