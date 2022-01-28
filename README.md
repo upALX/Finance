@@ -1,6 +1,6 @@
 **Overview**
 
-A platform about finances.
+A simple platform about finances.
 
 ---
 
