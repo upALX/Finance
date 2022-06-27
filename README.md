@@ -2,6 +2,7 @@
 
 A simple platform about finances.
 
+
 ---
 
 # :pushpin: Topics
